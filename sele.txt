@@ -1,0 +1,8 @@
+1)how many types of webdrivwe api's available in selenium?
+a)Chrome Driver.
+Interbet explorer
+Safari driver
+Remote WebDriver
+html unit Andrivir iphone driver is threre.
+2)NoSuchElement Exception
+

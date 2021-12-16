@@ -2,11 +2,11 @@
 public class Methodoverloading {
 	public void cat()
 	{
-		System.out.println("Meo Meo");
+		System.out.println("Meo... Meo");
 	}
 	public void milk()
 	{
-		System.out.println("Milk Milk");
+		System.out.println("Milk ...Milk");
 	}
 	public void Dog()
 	{
