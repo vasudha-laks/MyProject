@@ -1,18 +1,18 @@
 
 public class parent {
-	public void show1()
+	public void show()
 	{
-		System.out.println("parent's show1");
+		System.out.println("parent's show");
 	}
 	class child extends parent{
-	      public void show1()
+	      public void show()
 		{
 			System.out.println("child's show1");
 		}
 
 			public  void main(String[] args) {
 			parent p=new parent();
-			p.show1();
+			p.show();
 			
 		}
 
