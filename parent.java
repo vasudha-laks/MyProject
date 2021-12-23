@@ -1,13 +1,13 @@
 
 public class parent {
-	public void show()
+	public void shows()
 	{
-		System.out.println("parent's show");
+		System.out.println("parent's shows");
 	}
 	class child extends parent{
-	      public void show()
+	      public void shows()
 		{
-			System.out.println("child's show1");
+			System.out.println("child's shows");
 		}
 
 			public  void main(String[] args) {
